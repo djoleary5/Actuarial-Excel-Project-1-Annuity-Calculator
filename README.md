@@ -1,5 +1,5 @@
 # Actuarial_Annuity_Calculator
-#### Intuitive Annuity Calculator tool for insurance agents that is easy to use.
+#### Using Excel formulas to create an intuitive Annuity Calculator tool for insurance agents that is easy to use.
 
 An insurance company sells annuities to individuals age 40+.
 The maximum age that the insurance company offers payments to is age 110. Annuitants receive payments once per year.
