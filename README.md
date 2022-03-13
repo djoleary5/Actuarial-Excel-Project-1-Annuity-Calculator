@@ -26,3 +26,10 @@ The insurance agent should be able to input a specific plan number (specified ab
 Your illustration tool should also provide the following pieces of information: Total Payments (a total of all payments made), Total Years of Payments, and the Age of the Last Payment.
 
 Make sure you complete part # 1 before you move forward.
+
+## Part # 2
+The insurance company has decided to introduce 2 new annuity plans. Your task is to add these new plans to the illustration tool that you’ve created.
+
+Plan # 6: Annuitant decides which age the payments start and end at. The annuitant receives a total of $100,000 in payments and equal payments are made each year.
+
+Plan # 7: Annuitant decides which age the payments start and end at. Instead of payments being made each year, they’re made every second year. Each payment is $30,000. The initial payment of $30,000 occurs at the age the annuitant selects as the “start” age. The following year’s payment will be $0. Then the next year’s payment will be $30,000, etc.
