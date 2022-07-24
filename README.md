@@ -18,19 +18,23 @@ Plan # 4: Payments start at age 60 and go to age 100. Each year, the annuitant g
 Plan # 5: Annuitant decides what age payments start and end at. The first half of the payments is $19,000. The second half of the payments is $25,000. For example, if the annuitant got 4 years of payments, the first two would be for $19,000 and the second two would be for $25,000.
 
 ## Part # 1
-Your job is to create an annuity illustration tool that will allow insurance agents to quickly and easily illustrate the annuity payments that an annuitant can expect each year from now until the last annuity payment.
+My job is to create an annuity illustration tool that will allow insurance agents to quickly and easily illustrate the annuity payments that an annuitant can expect each year from now until the last annuity payment.
 
-Remember, this illustration tool needs to be intuitive for the insurance agents and easy to use. It should look professional.
+I want this illustration tool to be intuitive for the insurance agents, easy to use, and look professional.
 
 The insurance agent should be able to input a specific plan number (specified above), as well as any other necessary information and then have an easily understood illustration of what annuity payments the annuitant should expect each year in the future.
 
-Your illustration tool should also provide the following pieces of information: Total Payments (a total of all payments made), Total Years of Payments, and the Age of the Last Payment.
+My illustration tool will also provide the following pieces of information: Total Payments (a total of all payments made), Total Years of Payments, and the Age of the Last Payment.
 
-Make sure you complete part # 1 before you move forward.
+## Results
+I used a sepearate tab that reads in input cells from the main tab and calculates the payments for each year for all five plans.  The appropriate plan's data is then displayed on the main tab along with the summary data (Total Years of Payments, and the Age of the Last Payment).
 
 ## Part # 2
-The insurance company has decided to introduce 2 new annuity plans. Your task is to add these new plans to the illustration tool that you’ve created.
+The insurance company has decided to introduce 2 new annuity plans. My task is to add these new plans to the illustration.
 
 Plan # 6: Annuitant decides which age the payments start and end at. The annuitant receives a total of $100,000 in payments and equal payments are made each year.
 
 Plan # 7: Annuitant decides which age the payments start and end at. Instead of payments being made each year, they’re made every second year. Each payment is $30,000. The initial payment of $30,000 occurs at the age the annuitant selects as the “start” age. The following year’s payment will be $0. Then the next year’s payment will be $30,000, etc.
+
+## Results
+This was an easy update.  I simply added two additional columns to the calculations tab (one for each new plan).
